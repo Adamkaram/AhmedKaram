@@ -210,7 +210,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "./ssl.mp4",
+        "./ico.mp4",
     },
     {
       title: "SSLtestify",
@@ -242,7 +242,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "./ssl.mp4",
     },
     // {
     //   title: "llm.report",
