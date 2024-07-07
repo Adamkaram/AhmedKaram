@@ -210,7 +210,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "./ssl.mp4",
     },
     {
       title: "SSLtestify",
