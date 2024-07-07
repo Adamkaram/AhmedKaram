@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer . I love building things and helping people..",
   summary:
     "I am a Software Engineer with extensive experience in both frontend and backend development. My expertise spans various modern technologies, frameworks, and languages, allowing me to build robust and scalable applications. Here’s a brief overview of my key skills. I spent most of my time discovering new technology with this habit i’m ensuring that i’m UpToDate always",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me.webp",
   skills: [
     "Vue",
     "React",
