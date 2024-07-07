@@ -187,7 +187,7 @@ export const DATA = {
       dates: "Mar 2023 - Apr 2023",
       active: true,
       description:
-      "Developed a full-stack web application using React Server Components, serving a REST API with Next.js as the frontend for the iconic group company Helped to resolve major issues they were having before, such as speed, ease of scheduling interviews, and career applications, which led to a 42% increase in visitors and job offers compared to before",
+        "Developed a full-stack web application using React Server Components, serving a REST API with Next.js as the frontend for the iconic group company Helped to resolve major issues they were having before, such as speed, ease of scheduling interviews, and career applications, which led to a 42% increase in visitors and job offers compared to before",
       technologies: [
         "Next.js",
         "Typescript",
@@ -209,8 +209,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video:
-        "./ico.mp4",
+      video: "./ico.mp4",
     },
     {
       title: "SSLtestify",
@@ -308,36 +307,36 @@ export const DATA = {
     // },
   ],
   hackathons: [
- {
+    {
       title: "BookingSystem",
       dates: "Apr 2022 – May 2022",
       location: " ",
-      description: "Developed a full-stack web application feature using express serving a REST API with React as the frontend for a client. ● The client's management of forty rooms across two floors using a basic spreadsheet system for bookings by staff, teachers, and students is inefficient. The system lacks flexibility, is cumbersome to use, and fails to provide detailed booking times or insights into room utilization and resource optimization.",
-      image:
-        "./book.webp",
+      description:
+        "Developed a full-stack web application feature using express serving a REST API with React as the frontend for a client. ● The client's management of forty rooms across two floors using a basic spreadsheet system for bookings by staff, teachers, and students is inefficient. The system lacks flexibility, is cumbersome to use, and fails to provide detailed booking times or insights into room utilization and resource optimization.",
+      image: "./book.webp",
       mlh: " ",
       links: [
         {
-              title: "Github",
-              icon: <Icons.github className="h-4 w-4" />,
-              href: "https://github.com/Adamkaram/booking-system",
-            },
+          title: "Github",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/Adamkaram/booking-system",
+        },
       ],
     },
- {
+    {
       title: "Daad-T",
       dates: "Oct 2023",
       location: " ",
-      description: "Chrome extension aims to correct mistyped text when someone forgets to switch from Arabic to English or vice versa and continues typing, thinking they are using the correct language",
-      image:
-        "./dad.webp",
+      description:
+        "Chrome extension aims to correct mistyped text when someone forgets to switch from Arabic to English or vice versa and continues typing, thinking they are using the correct language",
+      image: "./dad.webp",
       mlh: " ",
-   links: [
-    {
-      title: "Github",
-      icon: <Icons.github className="h-4 w-4" />,
-      href: "https://github.com/Adamkaram/Daad-T",
-    },
+      links: [
+        {
+          title: "Github",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/Adamkaram/Daad-T",
+        },
       ],
     },
     {
@@ -346,8 +345,7 @@ export const DATA = {
       location: " ",
       description:
         "Participate in three open source projects, adding more value and resources to each of them ",
-      image:
-        "./hack.webp",
+      image: "./hack.webp",
       mlh: " ",
       links: [],
     },
