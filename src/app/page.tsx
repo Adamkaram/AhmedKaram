@@ -134,8 +134,7 @@ export default function Page() {
             {DATA.projects.map((project, id) => (
               <BlurFade
                 key={project.title}
-                delay={BLUR_FADE_DELAY * 12 + id * 0.05}
-              >
+                delay={BLUR_FADE_DELAY * 12 + id * 0.05}>
                 <ProjectCard
                   href={project.href}
                   key={project.title}
@@ -179,8 +178,7 @@ export default function Page() {
               {DATA.hackathons.map((project, id) => (
                 <BlurFade
                   key={project.title + project.dates}
-                  delay={BLUR_FADE_DELAY * 15 + id * 0.05}
-                >
+                  delay={BLUR_FADE_DELAY * 15 + id * 0.05}>
                   <HackathonCard
                     title={project.title}
                     description={project.description}
@@ -209,8 +207,7 @@ export default function Page() {
                 Want to chat? Just shoot me a dm{" "}
                 <Link
                   href={DATA.contact.social.X.url}
-                  className="text-blue-500 hover:underline"
-                >
+                  className="text-blue-500 hover:underline">
                   with a direct question on twitter
                 </Link>{" "}
                 and I&apos;ll respond whenever I can. I will ignore all
