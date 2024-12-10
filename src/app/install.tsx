@@ -5,7 +5,7 @@ export default function install({
 }>) {
   return (
     
-       <pre style="word-wrap: break-word; white-space: pre-wrap;">
+       <pre >
 z
          </pre>
      
