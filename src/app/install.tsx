@@ -12,13 +12,7 @@ export default function install({
         )}
       >
        <pre style="word-wrap: break-word; white-space: pre-wrap;">
-#!/bin/bash
-
-# Set Alt+Q to switch input sources
-gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['q']"
-gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<q']"
-
-echo "Input source switching shortcut set to Alt+Q"
+z
          </pre>
       </body>
     </html>
